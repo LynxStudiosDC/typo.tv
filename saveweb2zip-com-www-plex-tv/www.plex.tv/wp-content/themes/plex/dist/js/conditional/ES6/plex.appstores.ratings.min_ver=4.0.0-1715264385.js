@@ -1,0 +1,1 @@
+"use strict";!function(t,n){var e={data:function(){return{asRatings:{stores:plex_l10n_as_ratings.stores,rest:{endpoint:plex_l10n_as_ratings.rest_api.endpoint,nonce:plex_l10n_as_ratings.rest_api.nonce}}}},computed:{asRatingsStoresList:function(){return Object.keys(this.asRatings.stores)}}};PlexTemplating.extendTemplate(plex_l10n_as_ratings.markup_template_id,e)}(window);
